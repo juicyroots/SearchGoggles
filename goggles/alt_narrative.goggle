@@ -1,5 +1,5 @@
 ! name: Alt Narrative Search
-! description: Rerank results to boost content on non mainstream news and opinion sites.
+! description: Re-rank search results to get a fresh non-mainstream perspective. 
 ! public: true
 ! author: Truth Seekers
 ! avatar: #9244e0
@@ -45,3 +45,5 @@ $boost=3,site=www.newsbud.com
 $boost=3,site=revealnews.org
 $boost=3,site=revolution.news
 $boost=3,site=thefreethoughtproject.com
+$boost=3,site=www.propublica.org
+$boost=3,site=motherjones.com
