@@ -1,0 +1,23 @@
+! name: Alt Narrative Search
+! description: Rerank results to boost content on non mainstream news sites.
+! public: true
+! author: Trusth Seekers
+! avatar: #9244e0
+
+$discard
+$downrank,site=cdc.gov
+$downrank,site=fda.gov
+$downrank,site=vaccines.gov
+$downrank,site=theguardian.com
+$downrank,site=theatlantic.com
+$downrank,site=who.int
+$downrank,site=covid19.ca.gov
+$downrank,site=webmd.com
+$downrank,site=medium.com
+
+$boost=3,site=childrenshealthdefense.org
+$boost=3,site=sciencebasedmedicine.org
+$boost=3,site=bitchute.com
+$boost=3,site=theepochtimes.com
+$boost=3,site=www.shtfplan.com
+$boost=3,site=citizenfreepress.com
