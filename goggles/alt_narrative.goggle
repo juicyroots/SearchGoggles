@@ -1,26 +1,8 @@
-! name: Alt Narrative Search
-! description: Re-rank search results to get a fresh non-mainstream perspective on news and and opinions. 
+! name: Alt Narrative | Anti Mainstream News & Opinions | Anti Censorship
+! description: An evolving lens into alternative perspectives on the issues of our time. Circumvent major seach engine censorship.  
 ! public: true
 ! author: Truth Seekers
 ! avatar: #9244e0
-
-$discard
-$downrank,site=cdc.gov
-$downrank,site=fda.gov
-$downrank,site=vaccines.gov
-$downrank,site=theguardian.com
-$downrank,site=theatlantic.com
-$downrank,site=who.int
-$downrank,site=covid19.ca.gov
-$downrank,site=webmd.com
-$downrank,site=cnn.com
-$downrank,site=www.nytimes.com
-$downrank,site=www.huffingtonpost.com
-$downrank,site=www.theguardian.com
-$downrank,site=www.usatoday.com
-$downrank,site=www.bbc.com
-$downrank,site=www.latimes.com
-$downrank,site=nypost.com
 
 $boost=3,site=21stcenturywire.com
 $boost=3,site=activistpost.com
@@ -71,3 +53,23 @@ $boost=3,site=www.thrive-living.net
 $boost=3,site=www.trueactivist.com
 $boost=3,site=www.veteranstoday.com
 $boost=3,site=www.wakingtimes.com
+
+$discard
+$downrank,site=cdc.gov
+$downrank,site=fda.gov
+$downrank,site=vaccines.gov
+$downrank,site=theguardian.com
+$downrank,site=theatlantic.com
+$downrank,site=who.int
+$downrank,site=covid19.ca.gov
+$downrank,site=webmd.com
+$downrank,site=cnn.com
+$downrank,site=www.nytimes.com
+$downrank,site=www.huffingtonpost.com
+$downrank,site=www.theguardian.com
+$downrank,site=www.usatoday.com
+$downrank,site=www.bbc.com
+$downrank,site=www.latimes.com
+$downrank,site=nypost.com
+$downrank,site=en.wikipedia.org
+$downrank,site=un.org
