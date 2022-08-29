@@ -52,6 +52,8 @@ $boost=3,site=www.veteranstoday.com
 $boost=3,site=www.wakingtimes.com
 $boost=3,site=bretweinstein.net
 $boost=3,site=realclearhealth.com
+/r/conspiracy/$boost=3,site=www.reddit.com
+
 
 $discard,site=abc.net.au
 $discard,site=abcnews.com
@@ -153,4 +155,14 @@ $discard,site=www.latimes.com
 $discard,site=www.nytimes.com
 $discard,site=www.theguardian.com
 $discard,site=www.usatoday.com
-$discard,site=youtube.com
+$discard,site=hopkinsmedicine.org
+$discard,site=hhs.gov
+$discard,site=vaccinesafetynet.org
+$discard,site=dhs.wisconsin.gov
+$discard,site=wa.gov
+$discard,site=yalemedicine.org
+$discard,site=ama-assn.org
+$discard,site=nejm.org
+$discard,site=jamanetwork.com
+$discard,site=mercer.edu
+$discard,site=ny.gov
