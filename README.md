@@ -1,6 +1,6 @@
 # Truth Seekers
 
-## Search Goggle for Non-Mainstream Searches
+## Search Goggle for Non-Mainstream News and Opinions
 
 Goggles are simple, self-contained text files which can be hosted in Github or
 Gitlab. These files contain instructions allowing you to tell Brave Search how

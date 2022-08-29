@@ -1,5 +1,5 @@
 ! name: Alt Narrative Search
-! description: Re-rank search results to get a fresh non-mainstream perspective. 
+! description: Re-rank search results to get a fresh non-mainstream perspective on news and and opinions. 
 ! public: true
 ! author: Truth Seekers
 ! avatar: #9244e0
@@ -13,37 +13,61 @@ $downrank,site=theatlantic.com
 $downrank,site=who.int
 $downrank,site=covid19.ca.gov
 $downrank,site=webmd.com
+$downrank,site=cnn.com
+$downrank,site=www.nytimes.com
+$downrank,site=www.huffingtonpost.com
+$downrank,site=www.theguardian.com
+$downrank,site=www.usatoday.com
+$downrank,site=www.bbc.com
+$downrank,site=www.latimes.com
+$downrank,site=nypost.com
 
-$boost=3,site=medium.com
-$boost=3,site=childrenshealthdefense.org
-$boost=3,site=sciencebasedmedicine.org
-$boost=3,site=bitchute.com
-$boost=3,site=theepochtimes.com
-$boost=3,site=www.shtfplan.com
-$boost=3,site=citizenfreepress.com
-$boost=3,site=www.civilianintelligencenetwork.ca
-$boost=3,site=www.corbettreport.com
-$boost=3,site=davidicke.com
-$boost=3,site=pubmed.ncbi.nlm.nih.gov
-$boost=3,site=nature.com
-$boost=3,site=pressfortruth.ca
-$boost=3,site=globalresearch.ca
-$boost=3,site=rubinreport.com
-$boost=3,site=wearechange.org
-$boost=3,site=stormcloudsgathering.com
-$boost=3,site=truthinmedia.com
-$boost=3,site=mediaroots.org
-$boost=3,site=off-guardian.org
-$boost=3,site=activistpost.com
 $boost=3,site=21stcenturywire.com
-$boost=3,site=truthout.org
-$boost=3,site=www.allsides.com
-$boost=3,site=usabeat.org
-$boost=3,site=whowhatwhy.org
+$boost=3,site=activistpost.com
+$boost=3,site=beforeitsnews.com
+$boost=3,site=bitchute.com
+$boost=3,site=childrenshealthdefense.org
+$boost=3,site=citizenfreepress.com
+$boost=3,site=consciouslifenews.com
 $boost=3,site=consortiumnews.com
-$boost=3,site=www.newsbud.com
+$boost=3,site=davidicke.com
+$boost=3,site=educateinspirechange.org
+$boost=3,site=globalresearch.ca
+$boost=3,site=greenmedinfo.com
+$boost=3,site=mediaroots.org
+$boost=3,site=medium.com
+$boost=3,site=motherjones.com
+$boost=3,site=nature.com
+$boost=3,site=off-guardian.org
+$boost=3,site=pressfortruth.ca
+$boost=3,site=pubmed.ncbi.nlm.nih.gov
 $boost=3,site=revealnews.org
 $boost=3,site=revolution.news
+$boost=3,site=richieallen.co.uk
+$boost=3,site=rubinreport.com
+$boost=3,site=sciencebasedmedicine.org
+$boost=3,site=stormcloudsgathering.com
+$boost=3,site=theepochtimes.com
 $boost=3,site=thefreethoughtproject.com
+$boost=3,site=themindunleashed.org
+$boost=3,site=truthinmedia.com
+$boost=3,site=truthout.org
+$boost=3,site=truthstreammedia.com
+$boost=3,site=usabeat.org
+$boost=3,site=wakeup-world.com
+$boost=3,site=wearechange.org
+$boost=3,site=whowhatwhy.org
+$boost=3,site=www.allsides.com
+$boost=3,site=www.civilianintelligencenetwork.ca
+$boost=3,site=www.corbettreport.com
+$boost=3,site=www.newsbud.com
+$boost=3,site=www.projectveritas.com
 $boost=3,site=www.propublica.org
-$boost=3,site=motherjones.com
+$boost=3,site=www.shift.is
+$boost=3,site=www.shtfplan.com
+$boost=3,site=www.thelastamericanvagabond.com
+$boost=3,site=www.thespiritscience.net
+$boost=3,site=www.thrive-living.net
+$boost=3,site=www.trueactivist.com
+$boost=3,site=www.veteranstoday.com
+$boost=3,site=www.wakingtimes.com
