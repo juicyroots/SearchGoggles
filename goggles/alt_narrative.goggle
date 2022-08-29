@@ -7,7 +7,7 @@
 $boost=3,site=21stcenturywire.com
 $boost=3,site=activistpost.com
 $boost=3,site=beforeitsnews.com
-$boost=3,site=bitchute.com
+$boost=1,site=bitchute.com
 $boost=3,site=childrenshealthdefense.org
 $boost=3,site=citizenfreepress.com
 $boost=3,site=consciouslifenews.com
@@ -17,12 +17,9 @@ $boost=3,site=educateinspirechange.org
 $boost=3,site=globalresearch.ca
 $boost=3,site=greenmedinfo.com
 $boost=3,site=mediaroots.org
-$boost=3,site=medium.com
 $boost=3,site=motherjones.com
-$boost=3,site=nature.com
 $boost=3,site=off-guardian.org
 $boost=3,site=pressfortruth.ca
-$boost=3,site=pubmed.ncbi.nlm.nih.gov
 $boost=3,site=revealnews.org
 $boost=3,site=revolution.news
 $boost=3,site=richieallen.co.uk
@@ -53,6 +50,8 @@ $boost=3,site=www.thrive-living.net
 $boost=3,site=www.trueactivist.com
 $boost=3,site=www.veteranstoday.com
 $boost=3,site=www.wakingtimes.com
+$boost=3,site=bretweinstein.net
+$boost=3,site=realclearhealth.com
 
 $discard,site=abc.net.au
 $discard,site=abcnews.com
